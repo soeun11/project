@@ -1,0 +1,11 @@
+header {
+    background-image:url(WebFinal/bgrel.jpg);
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;
+    
+    font-family:'IBM Plex Sans-bold' ;
+}
+body{
+    font-family: 'IBM Plex Sans-bold', sans-serif;
+}
